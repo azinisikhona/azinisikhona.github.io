@@ -45,21 +45,29 @@
         {
             "id": 7,
             "name": "Portfolio",
+            "netlify": "https://portfolio-project-aziz.netlify.app/",
+            "code": "https://github.com/azinisikhona/bootstrap-project.git",
             "image": "https://i.postimg.cc/pLCpx99H/IMG-20200928-WA0082-1-removebg-preview.png"
         },
         {
             "id": 8,
             "name": "Horimiya",
+            "netlify": "https://intro-to-css-horimiya.netlify.app/",
+            "code": "https://github.com/azinisikhona/intro-to-css.git",
             "image": "https://i.postimg.cc/hj9Lg8Q0/893ad4acfe30f86f2a181a73f196ad32.jpg"
         },
         {
             "id": 8,
             "name": "Class-list",
+            "netlify": "https://class-list-exercise.netlify.app/",
+            "code": "https://github.com/azinisikhona/classlist-exersice.git",
             "image": "https://i.postimg.cc/7LY6sxZZ/what-is-html.webp"
         },
         {
             "id": 9,
             "name": "A's Records",
+            "netlify": "https://js-project-aziz.netlify.app/",
+            "code": "https://github.com/azinisikhona/Js-Project.git",
             "image": "https://i.postimg.cc/j2w7LQ3j/aziz-1-720.png"
         }
     ],
