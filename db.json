@@ -31,12 +31,14 @@
             "id": 5,
             "years": "2016 - 2020",
             "institution": "Zisukhanyo Secondary school",
+            "status": "finished",
             "image": "https://i.postimg.cc/3w1w5nKh/Zisukhanyo.jpg"
         },
         {
             "id": 6,
             "years": "2021 - 2022",
             "institution": "University of Cape Town",
+            "status": "unfinished",
             "image": "https://i.postimg.cc/50mKmQqn/UCT.jpg"
         }
     ],
