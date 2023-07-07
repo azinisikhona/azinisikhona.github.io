@@ -71,6 +71,20 @@
             "netlify": "https://js-project-aziz.netlify.app/",
             "code": "https://github.com/azinisikhona/Js-Project.git",
             "image": "https://i.postimg.cc/j2w7LQ3j/aziz-1-720.png"
+        },
+        {
+            "id": 17,
+            "name": "BMI calculator",
+            "netlify": "https://bmi-calculator-aziz.netlify.app/",
+            "code": "https://github.com/azinisikhona/BMI-calculator.git",
+            "image": "https://i.postimg.cc/GmJYYj49/BMI.png"
+        },
+        {
+            "id": 18,
+            "name": "Temperature Converter",
+            "netlify": "https://temperature-converter-aziz.netlify.app/",
+            "code": "https://github.com/azinisikhona/temperature-converter.git",
+            "image": "https://i.postimg.cc/dVLmyxb6/Screenshot-2023-07-07-135311.png"
         }
     ],
 
